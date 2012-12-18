@@ -1,0 +1,27 @@
+pypi_client
+===========
+
+PypiClient is a python library to operate with Pypi (http://pypi.python.org)
+XML-RPC webservice, implementing a cache system and functionalities to
+serialize (and load) this cache in a string or text file (based on JSON
+serialization).
+
+Package Contents
+----------------
+
+  pypi_client/
+      pypi_client sources.
+
+Support
+-------
+
+License
+-------
+
+See COPYRIGHT
+
+Copyright
+---------
+
+See project files for the complete list of Copyright owners.
+
